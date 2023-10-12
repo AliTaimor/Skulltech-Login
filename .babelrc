@@ -1,0 +1,14 @@
+// {
+//     "presets": ["module:metro-react-native-babel-preset"],
+//     "plugins": [
+//       [
+//         "react-native-svg",
+//         {
+//           "svgr": {
+//             "plugins": [{ "removeViewBox": false }]
+//           }
+//         }
+//       ]
+//     ]
+//   }
+  
